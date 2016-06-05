@@ -1,0 +1,2 @@
+C:\Users\yokiraamato\Documents\ezEvade\bin\Debug\ezEvade.exe.config
+C:\Users\yokiraamato\Documents\ezEvade\obj\Debug\ezEvade.csprojResolveAssemblyReference.cache
